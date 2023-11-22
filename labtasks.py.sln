@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "labtasks.py", "labtasks.py\labtasks.py.pyproj", "{A8A0BB60-59C8-48E5-B839-42B16EA9047D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A0BB60-59C8-48E5-B839-42B16EA9047D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A0BB60-59C8-48E5-B839-42B16EA9047D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73E2D231-C2D2-4257-A6EC-0554FF774409}
+	EndGlobalSection
+EndGlobal
